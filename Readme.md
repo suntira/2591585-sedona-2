@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Ирина Яценко](https://up.htmlacademy.ru/htmlcss-individual/2/user/2591585).
-* Наставник: `Неизвестно`.
+* Наставник: [Гоша Баранов](https://htmlacademy.ru/profile/id1206549).
 
 ---
 
